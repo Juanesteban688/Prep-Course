@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = nulo;
+const nuevaString = ;
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
@@ -31,7 +31,7 @@ function devolverString(str) {
   
 }
 
-function suma(x, y) {
+function adicion(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
